@@ -1,1 +1,1 @@
-# payloads # bugbounty # penetrationtesting # webhacking # sqlinjection # xss # crlf # lfi 
+# payloads bugbounty penetrationtesting webhacking sqlinjection xss crlf lfi 
